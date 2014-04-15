@@ -1,0 +1,30 @@
+#eb-calendar table, #eb-calendar td{
+	border:black 1px solid;
+	border-collapse: collapse;
+    	border-spacing: 1px;
+    	margin:0 auto;
+    	background:white
+	
+}
+
+#eb-calendar td{
+    	padding:2px
+}
+
+#eb-calendar .today{
+	background:lightgreen
+}
+
+#eb-calendar caption{
+	margin-bottom:0px;
+	text-align:center;
+	font-weight:bold;
+	background:#56a5ec
+}
+
+#eb-calendar{
+	margin:0 auto;
+	width:100%;
+	color:black;
+	
+}
